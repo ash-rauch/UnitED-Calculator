@@ -1,0 +1,13 @@
+# Logo Settings
+logoPath=images/unitED_Logo.png
+logoWidth=150
+logoHeight=100
+logoX=10
+logoY=10
+
+# Color Scheme Settings
+backgroundColor=#FFFFFF
+buttonColor=#4CAF50
+textColor=#000000
+panelColor=#FFFFFF
+menuBarColor=#F0F0F0
